@@ -1,7 +1,7 @@
 '''
 ############################################################################
 #                                                                          #
-#       YMLIE - Yield to Maturity Linear Interpolation Engine              #
+#       YLIE - Yield to Maturity Linear Interpolation Engine              #
 #       ------------------------------------------------------             #
 #                                                                          #
 #                                                                          #
